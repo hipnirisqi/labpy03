@@ -4,7 +4,7 @@ penjelasan latihan 1
 3.mdengAn menggunakan fungsi random. yakni, program akan menampilkam angka dibawah 0.5 secara acak.
 4. Ketika andda sudah memberikan input nilai, maka akan langsung muncul data nilai random.
  berikut hasil screenshot:
-![](screenshot/hasil%20angkah%201.jpg)
+![](screenshot/hasil%20langkah%201.jpg)
 
 penjelasan  latihan 2
 1. Masukan input bialangan
@@ -12,7 +12,7 @@ penjelasan  latihan 2
 3.p Program akan mencari bilangan tebesar dari beberapa bilangan yang anda inputakan.
 4. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input.
  hasil screenshot:
-![](screenshot/hasil%20langkah%202.jpg)
+![](screenshot/hasil%20langkah2.jpg)
 
 penjelasan program1
 1. Modal awal pengusaha sebesar Rp.100000000
@@ -25,4 +25,4 @@ penjelasan program1
 8. program akan jumlahkan semua keuntungan yang di dapat
 9. maka akan di tampilkan total laba yang di dapat.
 hasil screenshot:
-![](screenshot/hasil%20program%201.jpg)
+![](screenshot/hasil%20program1.jpg)
